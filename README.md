@@ -14,3 +14,7 @@ standartClock:
 <br>
 ![123](https://user-images.githubusercontent.com/28603785/187882860-64fd824c-4d2a-43c7-806a-5e7d3976a034.gif)
 
+
+I have used a template for buttons and applied for my design:
+
+https://getcssscan.com/css-buttons-examples
