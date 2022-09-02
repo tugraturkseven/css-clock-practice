@@ -10,7 +10,7 @@ RGB:
 ![Untitled Project](https://user-images.githubusercontent.com/28603785/187882912-0a86b3f7-0e45-497b-bcda-276c344170bf.gif)
 
 
-Digital:
+standartClock:
 <br>
 ![123](https://user-images.githubusercontent.com/28603785/187882860-64fd824c-4d2a-43c7-806a-5e7d3976a034.gif)
 
